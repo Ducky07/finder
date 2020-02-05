@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/superfinder/static/css/main.f391424b.chunk.css",
+    "main.js": "/superfinder/static/js/main.f6127a47.chunk.js",
+    "main.js.map": "/superfinder/static/js/main.f6127a47.chunk.js.map",
+    "runtime-main.js": "/superfinder/static/js/runtime-main.97eb82e8.js",
+    "runtime-main.js.map": "/superfinder/static/js/runtime-main.97eb82e8.js.map",
+    "static/js/2.0e8909e2.chunk.js": "/superfinder/static/js/2.0e8909e2.chunk.js",
+    "static/js/2.0e8909e2.chunk.js.map": "/superfinder/static/js/2.0e8909e2.chunk.js.map",
+    "index.html": "/superfinder/index.html",
+    "precache-manifest.0fc7eaf1d7b39d5c2696de0f2ac76062.js": "/superfinder/precache-manifest.0fc7eaf1d7b39d5c2696de0f2ac76062.js",
+    "service-worker.js": "/superfinder/service-worker.js",
+    "static/css/main.f391424b.chunk.css.map": "/superfinder/static/css/main.f391424b.chunk.css.map",
+    "static/js/2.0e8909e2.chunk.js.LICENSE": "/superfinder/static/js/2.0e8909e2.chunk.js.LICENSE",
+    "static/media/loader1.gif": "/superfinder/static/media/loader1.d9933c4e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97eb82e8.js",
+    "static/js/2.0e8909e2.chunk.js",
+    "static/css/main.f391424b.chunk.css",
+    "static/js/main.f6127a47.chunk.js"
+  ]
+}
